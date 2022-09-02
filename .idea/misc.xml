@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/20201tiimi0101/AndroidStudioProjects/Galeria/app/src/main/res/drawable/image_bg.xml" value="0.128" />
         <entry key="..\:/Users/20201tiimi0101/AndroidStudioProjects/Galeria/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/20201tiimi0101/AndroidStudioProjects/Galeria/app/src/main/res/layout/activity_photo.xml" value="0.22" />
+        <entry key="..\:/Users/20201tiimi0101/AndroidStudioProjects/Galeria/app/src/main/res/layout/list_item.xml" value="0.18" />
+        <entry key="..\:/Users/20201tiimi0101/AndroidStudioProjects/Galeria/app/src/main/res/menu/main_activity_tb.xml" value="0.1" />
+        <entry key="..\:/Users/20201tiimi0101/AndroidStudioProjects/Galeria/app/src/main/res/menu/photo_activity_tb.xml" value="0.25" />
       </map>
     </option>
   </component>
